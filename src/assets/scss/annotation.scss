@@ -1,0 +1,113 @@
+// for report details screens
+.approve {
+  background-color: #c8eee6 !important;
+  border: #068660 1px solid !important;
+}
+.suggestion{
+  border: #808080 1px solid !important;
+  color: 808080 !important;
+}
+.annoApprove{
+  border: #068660 1px solid !important;
+  color: #068660 !important;
+}
+  .badge-outline-secondary {
+    color: #6c757d !important;
+    border: 1px solid #6c757d !important;
+    background-color: transparent;
+}
+.badge-success {
+  color: #000 !important;
+  background-color: #0acf97 !important;
+}  
+
+//for review mode report details screen left side
+$confirmed : #c8eee6; 
+$confirmedColor : #000;
+$confirmedBorder : 2px solid #0acf97;
+$selectedBackground : #c4c8ed;
+$selectedBorder : #7279b7 !important;
+
+:export {
+  confirmed: $confirmed;
+  confirmedColor: $confirmedColor;
+  confirmedBorder : $confirmedBorder;
+  selectedBackground : $selectedBackground;
+  selectedBorder : $selectedBorder;
+
+}
+.confirmed{
+  background: #c8eee6 !important;
+  color: #000 !important;
+  font-weight: 700;
+  border : 2px solid #0acf97 !important;
+  margin: 0.75rem
+}
+.confirmed-without-background{
+  color: #000 !important;
+  font-weight: 700;
+  border : 2px solid #0acf97 !important;
+  margin: 0.75rem;
+}
+.selected{
+  background-color : #c4c8ed !important;
+  border-color : #7279b7 !important; 
+  color: #000 !important;
+  font-weight: 700;
+  margin: 0.75rem
+}
+.selectedBorder{
+  border-color : #7279b7 !important; 
+  color: #000 !important;
+  font-weight: 700;
+  margin: 0.75rem
+}
+
+
+.badge-outline-success {
+  padding: 8px !important;
+  margin: 5px;
+  // cursor: move;
+}
+
+//Discharge summary screen
+
+
+.dsapprove {
+  border : #068660 1px solid;
+  color: #000;
+  background-color : #c8eee6;
+  font-weight: bold;
+}
+//popup pill badge color
+.tablularInnerPopupCode {
+  border-radius: 10px;
+  background: #7683f5 !important;
+  cursor: pointer;
+  color:#fff;
+}
+.icd_search_sub_2 {
+ background-color: #7683f5 !important;
+ color : #fff !important;
+}
+
+.block_css {
+  background-color :#000 !important;
+  color:#fff !important;
+  padding:0.5rem !important;
+  margin-right:1em !important;
+  cursor:pointer;
+}
+.modalFooter{
+  background:#f3f4f8;
+  display: unset;
+}
+.cof_checkbox{
+  margin-top:0.5rem;
+  float:left;
+}
+.innerpopup_button{
+ float:right;
+}
+
+

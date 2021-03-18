@@ -1,0 +1,136 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dischargeschart component Matches the snapshot 1`] = `
+<div>
+  <div
+    className="row"
+  >
+    <div
+      className="col-sm-9"
+    >
+      <h6
+        className="header-title mb-2 mt-1"
+        style={
+          Object {
+            "fontSize": "12px",
+          }
+        }
+      >
+        Discharges
+      </h6>
+    </div>
+    <div
+      className="col-sm-3"
+    >
+      <select
+        className="form-control form-control-sm"
+        style={
+          Object {
+            "fontSize": "10px",
+            "height": "23px",
+          }
+        }
+      >
+        <option>
+          One Week
+        </option>
+        <option>
+          Two Week
+        </option>
+      </select>
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col-sm-6"
+    >
+      <div
+        className="apex-charts"
+        height={200}
+        options={
+          Object {
+            "chart": Object {
+              "height": 340,
+              "type": "donut",
+            },
+            "colors": Array [
+              "#1164a0",
+              "#fea939",
+              "#1a716a",
+            ],
+            "legend": Object {
+              "show": false,
+            },
+            "responsive": Array [
+              Object {
+                "breakpoint": 376,
+                "options": Object {
+                  "chart": Object {
+                    "height": 250,
+                    "width": 250,
+                  },
+                  "legend": Object {
+                    "position": "bottom",
+                  },
+                },
+              },
+            ],
+          }
+        }
+        series={
+          Array [
+            0,
+            0,
+            0,
+          ]
+        }
+        type="pie"
+        width="100%"
+      />
+    </div>
+    <div
+      className="col-sm-6 chart_data_info"
+    >
+      <div
+        className="chart-widget-list"
+      >
+        <p>
+          <i
+            className="mdi mdi-circle discharges_commenced"
+          />
+           Discharges Not Commenced
+          <span
+            className="float-right"
+          >
+            0
+          </span>
+        </p>
+        <p>
+          <i
+            className="mdi mdi-circle discharges_process"
+          />
+           Discharges In Process
+          <span
+            className="float-right"
+          >
+            0
+          </span>
+        </p>
+        <p>
+          <i
+            className="mdi mdi-circle discharges_completed"
+          />
+           Discharges Completed
+          <span
+            className="float-right"
+          >
+            0
+          </span>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

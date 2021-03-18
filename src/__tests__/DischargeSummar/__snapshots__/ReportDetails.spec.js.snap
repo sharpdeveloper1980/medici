@@ -1,0 +1,577 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ReportDetails component Matches the snapshot 1`] = `
+<div
+  className="row"
+>
+  <div
+    className="col-sm-8"
+  >
+    <div
+      className="pl-1 pt-1 pr-1 pb-1 card"
+    >
+      <div
+        className="change_line"
+        onMouseUp={[Function]}
+      >
+        <span
+          data-end={1}
+          data-start={0}
+          onClick={[Function]}
+        >
+          A
+        </span>
+        <mark
+          data-end={10}
+          data-start={1}
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "#ffd49c",
+              "paddingRight": "13px",
+            }
+          }
+        >
+          dmission 
+          <i
+            className="close_icon"
+          >
+            ✕
+          </i>
+        </mark>
+        <span
+          data-end={22}
+          data-start={10}
+          onClick={[Function]}
+        >
+          Date:  [**21
+        </span>
+        <mark
+          data-end={65}
+          data-start={22}
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "#ffd49c",
+              "paddingRight": "13px",
+            }
+          }
+        >
+          64-10-23**]              Discharge Date:   
+          <i
+            className="close_icon"
+          >
+            ✕
+          </i>
+        </mark>
+        <mark
+          data-end={50}
+          data-start={25}
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "#ffd49c",
+              "paddingRight": "13px",
+            }
+          }
+        >
+          10-23**]              Dis
+          <i
+            className="close_icon"
+          >
+            ✕
+          </i>
+        </mark>
+        <span
+          data-end={15762}
+          data-start={50}
+          onClick={[Function]}
+        >
+          charge Date:   [**2164-11-1**]
+
+Date of Birth:  [**2094-3-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Lidocaine / Heparin Sodium
+
+Attending:[**First Name3 (LF) 18141**]
+Chief Complaint:
+Fever and chills
+
+Major Surgical or Invasive Procedure:
+HD tunnel catheter replacement
+
+History of Present Illness:
+Ms. [**Known lastname **] is a 70 year old female with ESRD on HD through
+tunneled catheter (hx of peritoneal dialysis until VRE
+peritonitis and PD catheter removal in [**2164-10-13**]), HTN, DMII,
+CAD, Afib, CHF (EF 50%), who presents from [**Location (un) 4265**] Dialsis with
+fever, chills for one hour during HD.  Dialysis was completed
+and the patient was transferred to [**Hospital1 18**] where she was found to
+have a temperature of 103 and HR of 120 with lactate of 4.4.
+Ms. [**Known lastname **] received Ceftriaxone 1g IV, Flagyl 500mg IV, and
+tylenol (unasyn 3g x1 written for but never signed) in the ED.
+She denied any SOB, cough, sputum, n/v/d, dysuria, burning or
+difficulty with urination. As per patient and her family, the
+patient has been in her USOH up until this point. Ms. [**Known lastname **]
+was admitted to [**Hospital Unit Name 153**] for sepsis protocol.
+
+Past Medical History:
+Atrial fibrillation
+Significant for recurrent GI bleeding from AVMs-colonoscopy
+gastro and small bowel enteroscopy all showing AVM.
+Four endoscopies which showed bleeding ulcers in the colon and
+small intestine, and were
+treated with cauterization.
+Non-insulin-dependent diabetes - diagnosed at the age of 50-
+HgbA1C = 6.2 in [**7-18**]
+hypertension
+congestive heart failure,
+gout
+ESRD secondary to hypertensive nephrosclerosis on peritoneal
+dialysis x 3 years without complications
+chronic anemia
+aortic insufficiency.
+Recent admission to NEBH in [**7-18**] for diverticulitis
+[**3-18**]- C. dificile, pancolitis associated with hypokalemia,
+profound weight loss, dehydration, and hypomagnesemia.
+H/o parotitis
+H/o gout
+H/o Clostridium [**Doctor Last Name **] sepsis
+
+PAST SURGICAL HISTORY:
+Laminectomy, C-section x4, and cholecystectomy.
+Past Cardiac history:
+[**7-/2161**]- MIBI- 1) Moderate, fixed perfusion defects in the
+lateral wall, involving especially the inferior portion. 2)
+Multi-vessel disease cannot be excluded given left ventricular
+enlargement, global hypokinesis, and depressed EF of 43%.
+
+Cath: [**2161-10-15**]- R dominant system with nml coronary
+arteries
+
+[**7-18**]:Echo: LVK, global HK, LVEF is 50%.
+
+
+
+Social History:
+Retired RN. Pt has been living at [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] rehab since her last
+discharge from [**Hospital1 18**] and communtes to [**Location (un) 4265**] for dialysis three
+times a week.   Pt admits to 100 pack year history of smoking
+(2ppd x 49 years).  However, the patient denies any history of
+alcohol use or illicit drug use.
+
+
+Family History:
+One son has hypertension and one son recently had a cerebro
+vascular accident. Her mother died of a ruptured cerebral
+aneurysm and father died when he was 80.
+
+
+Physical Exam:
+Physical Exam:
+VS: Tc: 98.6   HR: 93   BP: 120s/50s   RR: 15   SaO2: 100%
+Gen: patient lying in bed in NAD, appearing younger than her
+stated age. She is alert and oriented x3 and conversing
+appropriately
+HEENT: PERRL, EOMI, anicteric, mmm
+Neck: Left IJ bandage has dried blood but otherwise, no obvious
+signs of bleeding, hematoma, tenderness at site.
+CV: RRR S1, S2, ?SEM at LSB
+Chest: CTA bilaterally, R tunneled IJ with dressing c/d/i.  No
+signs of acute bleeding, hematoma, pus drainage, tenderness to
+palpation
+Abd: soft, NT, ND, well healed scar at PD site
+Ext: warm, well perfused, no c/c/e
+
+
+Pertinent Results:
+[**2164-10-23**] 05:33PM   LACTATE-4.4*
+[**2164-10-23**] 05:38PM   PT-21.2* PTT-32.7 INR(PT)-2.8
+[**2164-10-23**] 05:38PM   NEUTS-86.6* LYMPHS-7.9* MONOS-5.0 EOS-0.4
+BASOS-0.2
+[**2164-10-23**] 05:38PM   WBC-7.8 RBC-4.46 HGB-13.7 HCT-42.4 MCV-95
+MCH-30.8 MCHC-32.4 RDW-20.0*
+[**2164-10-23**] 05:38PM   CRP-8.92*
+[**2164-10-23**] 05:38PM   CORTISOL-49.3*
+[**2164-10-23**] 05:38PM   ALT(SGPT)-9 AST(SGOT)-40 ALK PHOS-167* TOT
+BILI-1.0
+[**2164-10-23**] 05:38PM   GLUCOSE-217* UREA N-9 CREAT-3.0*# SODIUM-139
+POTASSIUM-6.0* CHLORIDE-96 TOTAL CO2-29 ANION GAP-20
+
+CLOSTRIDIUM DIFFICILE(Final [**2164-10-31**]): FECES NEGATIVE FOR C.
+DIFFICILE TOXIN BY EIA.
+
+AEROBIC BOTTLE (Final [**2164-10-27**]):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    ISOLATED FROM ONE
+SET ONLY.
+         SENSITIVITIES REQUESTED BY DR. [**Last Name (STitle) **]. ABULO (PAGER [**Numeric Identifier **]).
+         FINAL SENSITIVITIES.
+         COAG NEG STAPH does NOT require contact precautions,
+regardless of
+         resistance.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+         Please contact the Microbiology Laboratory ([**6-/2466**])
+immediately if
+         sensitivity to clindamycin is required on this
+patient's isolate.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |
+ERYTHROMYCIN----------   =&gt;8 R
+GENTAMICIN------------ &lt;=0.5 S
+LEVOFLOXACIN----------     4 I
+OXACILLIN-------------   =&gt;4 R
+PENICILLIN------------ =&gt;0.5 R
+TETRACYCLINE----------   &lt;=1 S
+VANCOMYCIN------------     2 S
+
+   ANAEROBIC BOTTLE (Final [**2164-10-26**]):
+      REPORTED BY PHONE TO [**Last Name (LF) **],[**First Name3 (LF) 99628**] ON [**2164-10-24**] @
+2118.
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    ISOLATED FROM ONE
+SET ONLY.
+         SENSITIVITIES PERFORMED FROM AEROBIC BOTTLE.
+
+CT abdomen:
+1) Thickened wall in long segment of sigmoid colon, consistent
+with diverticulitis, unchanged. There is a small amount of
+interlooped free fluid in the pelvis, not amenable to drainage.
+2) Pelvic fluid collection, of uncertain origin, that was
+aspirated from [**10-17**] and shown to be not contaminated, and
+unchanged.
+
+TTE: Moderate aortic regurgitation and minimal aortic stenosis
+but no discrete vegetation seen (does not exclude). Regional
+left ventricular systolic dysfunction c/w CAD. Mild mitral
+regurgitation.
+
+Compared with the prior study (tape reviewed) of [**2161-7-23**], left
+ventricular systolic function is now depressed (40%). The
+severity of aortic regurgitation is similar.
+
+CXR: Right jugular dialysis catheter is in right atrium. PICC
+line is in SVC, partly obscured by the dialysis catheter. Linear
+atelectases are present in both lower zones. No pleural
+effusion. Degenerative changes are present in the thoracic spine
+and in the glenohumeral joints bilaterally. Surgical clips are
+present in the right upper quadrant status post cholecystectomy.
+
+
+Brief Hospital Course:
+A/P: Ms. [**Known lastname **] is a 70 year old women with ESRD on HD who
+presents with fever to 103, chills, and tachycardia to 103 with
+possible line infection.
+.
+1.  Sepsis:  The patient was initially sent to the intensive
+care unit under the sepsis protocol. She was started on
+vancomycin for skin flora and unasyn for Group D enterococcus
+(VRE) sensitive to amp (previous infections over last year). Her
+blood cultures drawn at [**Location (un) 4265**] grew out oxacillin resistant coag
+negative staph. Her urine cultures were without grown.  A CXR
+was obtained and was without signs of pneumonia. Once she was
+stabilized, Ms. [**Known lastname **] was sent to the floor where her
+tunneled catheter was removed. The tip was sent for culture but
+did not grow any organisms.
+Access was an issue as 3 attempts in ED failed, including one
+with US. Instead a PICC was placed and eventually, after she was
+free of bacteria for &gt; 48 hours, a new tunnel line was placed.
+
+Despite placement of a new line and clean surveillance cultures,
+Ms. [**Known lastname **] continued to spike fevers. She spiked through her
+vancomycin which was always re-dosed when her daily levels fell
+below 15. An [**Known lastname 1676**] CT was obtained, revealing a 7 cm mass,
+consistent with an abscess, above the bladder. Considering that
+she had been recently hospitalized with a diverticulitis and
+peritonitis, it seemed urgent to intervene on this "abscess". It
+was evacuated under IR guidance but no organisms appeared on
+gram stain and nothing grew on culture. It became apparent that
+this was most likely a fluid collection from the patient's
+peritoneal dialysis. The patient continued to spike fevers so a
+work up was commenced that included a chest x ray, a TTE (since
+she has a murmur, although old) and more blood and urine
+cultures. All these studies were negative. As the patient
+continued to spike fevers and had one bout of emesis, another
+[**Known lastname 1676**] CT was obtained. It showed diverticulitis and so a 14
+day course of flagyl and levofloxacin was started. It was
+decided that a general surgery consult would be obtained once
+she was an outpatient in order to faciliate resection of the
+affected length of bowel. At discharge, Ms. [**Known lastname **] was
+instructed to continue her levo, flagyl, and vanco to complete a
+14 day course of each one. Her vanco levels were to be followed
+and redosed at HD.
+.
+2.  ESRD:  Ms. [**Known lastname **] usually dialyzes on Tues, Thurs, Sat but
+here she was switched to Monday, Wednesday and Saturday under
+the guidance of the renal team. Her electrolytes were followed
+and repleted very consevatively as needed. It was noted that her
+phosphate calcium product was quite high, so her sevelamer was
+titrate up. She was also placed on a renal diet. The patient
+reports making urine, however not an adequate measure of
+perfusion due to ESRD. She hopes to continue her peritoneal
+dialysis and felt were upset at having to start HD. The method
+of dialysis was to be further addressed as an outpatient with
+her PCP [**Last Name (NamePattern4) **]. [**First Name (STitle) **], after her diverticular disease was resolved.
+
+.
+3.  DMII:  Ms. [**Known lastname **] is usually on oral hypoglycemics. These
+oral agents were held due to their long half life and instead
+she was covered with RISS with QID finger sticks. Her home
+regimen of glipizide was restarted at discharge. While in house,
+she was on a controlled carbohydrate diet.
+.
+4.  HTN:  Ms.[**Known lastname 14301**] home regimen includes metoprolol,
+moexipril and diltiazem. Initially the metoprolol was continued
+and the diltiazem and moexipril were held since the patient is
+currently not hypertensive. Before discharge, she was restarted
+on moexepril but not diltiazem. She was also started on an
+aspirin and atorvastatin before discharge.
+.
+5.  Afib:  The patient is on coumadin as outpatient for
+anticoagulation.  This was hold anticoagulation in case she
+required urgent line placement.  Her rate was easily controlled
+with beta blocker. Before discharge, her coumadin was restarted,
+but very cautiously as it interacts with her 2 antibiotics for
+her diverticulitis, flagyl and levofloxacin. She was advised to
+have her INR followed carefully and her warfarin titrated as
+needed for an INR [**1-17**].
+.
+6.  CAD by hx (fixed perfusion defect) but clean coronaries by
+cath:  The patient was continued on metoprolol but given her
+current anticoagulation status and possible need for urgent line
+placement the aspirin was held.  Her ACE inhibitor and statin
+were initially held and re-started later in her course.
+
+Medications on Admission:
+1.  Metoprolol 150mg TID
+2.  Diltiazem 360mg once daily
+3.  Glipizide 10mg [**Hospital1 **]
+4.  Coumadin 2mg once daily
+5.  Sevelamer 800mg TID
+6.  Moexipril 7.5mg once daily
+7.  Flagyl (completed course on [**2164-10-20**])
+
+
+Discharge Medications:
+1. Warfarin Sodium 2 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+2. Moexipril HCl 7.5 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Sevelamer HCl 800 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day).
+5. Vancomycin HCl 10 g Recon Soln Sig: One (1) Recon Soln
+Intravenous  QHD (each hemodialysis).
+6. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q48H (every
+48 hours) for 14 days.
+Disp:*7 Tablet(s)* Refills:*0*
+7. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 14 days.
+Disp:*42 Tablet(s)* Refills:*0*
+8. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+10. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.)
+Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24
+hours).
+11. Metoprolol Tartrate 50 mg Tablet Sig: Three (3) Tablet PO
+TID (3 times a day).
+12. Glipizide 10 mg Tablet Sig: One (1) Tablet PO twice a day.
+13. comode  Sig: One (1)   as needed.
+14. hospital bed
+1 bed for patient with CHF
+15. commode
+1 commode for patient with CHF
+16. shower chair
+1 shower chair for patient with CHF
+17. wheelchair
+1 wheelchair for patient with CHF
+18. Vancocin HCl 1,000 mg Recon Soln Sig: One (1)  Intravenous
+QHD prn level &lt; 15 for 7 days.
+19. pulse oximetry
+please use for overnight oximetry on room air and record each
+morning.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Company 1519**]
+
+Discharge Diagnosis:
+diverticulitis
+chronic renal insufficiency with HD line sepsis
+anemia
+CHF
+diabetes
+CAD
+atrial fibrillation
+recurrent GIB
+colonic ulcers
+gout
+c.diff pancolitis
+cholecystectomy
+laminectomy
+parotitis
+c section x 4
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+Please restart your medications except for your diltiazem. You
+will also be taking 2 new antibiotics for your diverticulitis.
+
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight &gt; 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 1500 cc per day
+
+Please note, you should have your INR and vancomycin level
+checked at HD on Saturday. Your medications need to be adjusted
+accordingly. You will need to get vancomycin at HD for the next
+7 days each time your level is &lt; 15 each time it is measured. It
+should be measured each time you go to HD.
+
+Since you will not be dialyzing until Saturday, please be
+especially careful with your diet and avoid excess fluid and
+potassium.
+
+Please call your doctor [**First Name (Titles) **] [**Last Name (Titles) 1676**] pain, fevers, chills,
+diarrhea, or constipation.
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) 1344**] [**Last Name (NamePattern4) 3125**], MD Where: LM [**Hospital Unit Name 3126**] CENTER Phone:[**Telephone/Fax (1) 673**] Date/Time:[**2164-11-19**] 9:30
+Provider: [**First Name8 (NamePattern2) **] [**Name11 (NameIs) **], [**Name Initial (NameIs) **].D. Where: [**Hospital6 29**] [**Hospital **] Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2164-12-5**] 1:30
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) **] TRANSPLANT SOCIAL WORK Where:
+TRANSPLANT SOCIAL WORK Date/Time:[**2165-1-7**] 1:00
+Please call your PCP: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **]. [**Telephone/Fax (1) 18145**] for an
+appointment right after [**Holiday 1451**].
+
+Please note, you should have your INR and vancomycin level
+checked at HD. Your medications need to be adjusted accordingly,
+eg. you should receive 1000 mg of vancomycin for a level less
+than 15 and you should increase your warfarin if the INR is less
+than 2 and decrease it if the level is greater than 3. Your
+warfarin level will need to be checked 2-3 times per week while
+you are on the metronidazole and levofloxacin because these
+antibiotics will increase your INR.
+
+* you were vaccinated with the pneumococcal vaccine but not the
+infuenza vaccine
+
+
+
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="col-sm-4"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-12 text-right"
+      >
+        <label
+          className="switch"
+        >
+          <input
+            type="checkbox"
+          />
+          <span
+            className="slider round"
+          />
+        </label>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-3"
+      >
+        <button
+          className="btn btn-sm annotation_tag"
+        >
+          A00
+        </button>
+      </div>
+      <div
+        className="col-sm-9 pt-1"
+      >
+        <p>
+          <span
+            className="annotation_description"
+          >
+            Cholera
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-3"
+      >
+        <button
+          className="btn btn-sm annotation_tag"
+        >
+          A00
+        </button>
+      </div>
+      <div
+        className="col-sm-9 pt-1"
+      >
+        <p>
+          <span
+            className="annotation_description"
+          >
+            Cholera
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-3"
+      >
+        <button
+          className="btn btn-sm annotation_tag"
+        >
+          A00.0
+        </button>
+      </div>
+      <div
+        className="col-sm-9 pt-1"
+      >
+        <p>
+          <span
+            className="annotation_description"
+          >
+            Cholera due to Vibrio cholerae 01, biovar cholerae
+          </span>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

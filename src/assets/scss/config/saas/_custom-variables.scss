@@ -1,0 +1,169 @@
+//
+// custom-variables.scss
+//
+
+// Shadow
+$shadow:                            0px 0px 35px 0px rgba(154, 161, 171, 0.15);
+$shadow-lg:                         0 0 45px 0 rgba(0, 0, 0, 0.12);
+
+// Background left-sidebar
+$bg-leftbar:                        linear-gradient(135deg, #8f75da 0%, #727cf5 60%);
+$bg-leftbar-light:                #ffffff;
+$bg-leftbar-dark:                 #313a46;
+$bg-topnav:                       #313a46;
+
+// Deatched left sidenav
+$bg-detached-leftbar:             #ffffff;
+
+// Topbar Height
+$topbar-height:                     70px;
+
+// Logo Display
+$logo-light-display:                block;
+$logo-dark-display:                 none;
+// Logo auth display
+$logo-auth-light-display:                none;
+$logo-auth-dark-display:                 block;
+
+// Leftbar width
+$leftbar-width:                     260px;
+
+// Boxed Layout
+$boxed-layout-width:                1300px;
+$boxed-layout-bg:                 #ffffff;
+
+// Menu item colors (Default-dark)
+$menu-item:                       #cedce4;
+$menu-item-hover:                 #ffffff;
+$menu-item-active:                #ffffff;
+
+// Menu item colors (light)
+$menu-item-light:                 #6c757d;
+$menu-item-light-hover:           #727cf5;
+$menu-item-light-active:          #727cf5;
+
+// Detached Menu item colors
+$menu-item-dark:                  #6c757d;
+$menu-item-dark-hover:            #727cf5;
+$menu-item-dark-active:           #727cf5;
+
+// Dark sidenav Menu item color
+$sidebar-dark-menu-item:          #8391a2;
+$sidebar-dark-menu-item-hover:    #bccee4;
+$sidebar-dark-menu-item-active:   #ffffff;
+
+// Rightbar Width
+$rightbar-width:       280px;
+$rightbar-bg:                     #ffffff;
+$rightbar-title-bg:               #313a46;
+$rightbar-title-color:            #ffffff;
+$rightbar-title-btn-bg:           #444e5a;
+$rightbar-title-btn-color:        #ffffff;
+$rightbar-overlay-bg:             #37404a;
+
+// Topbar Background
+$bg-topbar:                       #ffffff;
+$bg-topbar-dark:                  #313a46;
+
+// Topbar Search
+$bg-topbar-search:                #f1f3fa;
+$bg-topbar-dark-search:           #3c4655;
+
+// Helpbox
+$help-box-light-bg:               rgba(255,255,255,0.07);
+$help-box-dark-bg:                #727cf5;
+
+// Font weight
+$font-weight-semibold:              600;
+
+// Dropdown Large
+$dropdown-lg-width:                 320px;
+
+// Page title color
+$page-title-color:                  inherit;
+
+// Nav-pill background
+$nav-pills-bg:                    #eef2f7;
+
+// Custom-accordion
+$custom-accordion-title-color:    #313a46;
+
+// Dragula demo background
+$dragula-bg:                      #f7f9fb;
+
+// Form wizard header background
+$form-wizard-header-bg:           #eef2f7;
+
+// Text title color
+$text-title-color:                #6c757d;
+
+// card Loader background
+$card-loader-bg:                  #313a46;
+
+// Chat widget
+$chat-primary-user-bg:            #fef5e4;
+$chat-secondary-user-bg:          #f1f3fa;
+
+// User authentication Background
+$auth-bg:                         #ffffff;
+$auth-bg-pattern-img:               url("../../../images/imgpsh_fullsize_anim.png");
+
+// Apex chart
+$apex-grid-color:                 #f9f9fd;
+
+
+$hero-bg: linear-gradient(to bottom,#8669ed,#727cf5);
+// custom
+$side-menu-bg: #313a46;
+$summary-header-block-bg:#f8f8f8;
+$discharge-list-btn-bg:#313a46; 
+$white-color:white;
+$right-icon-color:#1265a1;
+$left-icon-color:#b9c0fa;
+$page-title-color:#323b59;
+$custom-btn-bg:radial-gradient(rgb(24, 99, 92), 50%, rgb(7, 27, 25));
+$edit_icon-color:#265bab;
+$data-block-bg:#f3f4f8;
+$data_block1-borer:#f8cd94;
+$data_block2-borer:#6397bd;
+$data_block3-borer:#dc7cf8;
+$custom-tab-border:#807f7f;
+$custom-tab-color:#050910;
+$custom-tab-bg:#f0ecec;
+$black-color:black;
+$discharges_commenced:#7380f5;
+$discharges_process:#fa5c7c;
+$discharges_completed:#0bcf97;
+$active_menu-shadow:#00000029;
+$annotation_description:#8e9398;
+$slider-input:#cbd9d8;
+$description-field:#eeeeee;
+$headding_block1:#040404;
+$headding_block2:#e26720;
+$add-note-border-color:#DEE2E9;
+$add-note-border-read-only-color:#c6cbd2;
+$add-note-bg:#f8f8f8;
+$labs-table-bg:#f8f8f8;
+$red-color:red;
+$badge-outline-success-color:#a7a5b4;
+$tab-border-color:#ebedef;
+$drag-element-border:#807f7f;
+$drag-element-color:#050910;
+$drag-element-bg:#f0ecec;
+$tab-selected-border:#727cf5;
+$custom-field-color:#b2bac4;
+$auth-body-bg:#FAFBFE;
+$side-nav-link-color:#98a3b0;
+$badge-primary-bg:#727cf599;
+$link-btn-color:#337cc7;
+$mui-tree-color:gray;
+$tbl-icd-code:#337ab7;
+$tbl-icd-code-parent:#3c763d;
+$annotation-approve:#28a745;
+$mui-delete:#17a2b8;
+$mui-outline-primary: #727cf599;
+$icd-search-color:#777;
+$icd-search-heading:#8a6d3b;
+$active-report:#c4c8ed;
+$mui-primary-color:#fff;
+$content-page:#FAFBFE;

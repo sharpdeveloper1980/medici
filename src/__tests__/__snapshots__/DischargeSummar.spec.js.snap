@@ -1,0 +1,461 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DischargeSummar component Matches the snapshot 1`] = `
+<div
+  className="wrapper"
+>
+  <div
+    className="content-page"
+  >
+    <div
+      className="content page_container"
+    >
+      <div
+        className="container-fluid content_box"
+      >
+        <div
+          className="row"
+        >
+          <div
+            className="col-12"
+          >
+            <div
+              className="page-title-box"
+            >
+              <div
+                className="page-title-right"
+              >
+                <ol
+                  className="breadcrumb m-0"
+                >
+                  <li
+                    className="breadcrumb-item"
+                  />
+                  <li
+                    className="breadcrumb-item active"
+                  >
+                    Discharge summary
+                  </li>
+                </ol>
+              </div>
+              <h4
+                className="page-title"
+              >
+                Discharge summary
+              </h4>
+            </div>
+          </div>
+        </div>
+        <div
+          className="row"
+        >
+          <div
+            className="col-lg-12"
+          >
+            <div
+              className="row"
+            >
+              <div
+                className="col-12"
+              />
+            </div>
+            <div
+              className="react-tabs"
+              data-tabs={true}
+              onClick={[Function]}
+              onKeyDown={[Function]}
+            >
+              <ul
+                className="react-tabs__tab-list"
+                role="tablist"
+              >
+                <li
+                  aria-controls="react-tabs-1"
+                  aria-disabled="false"
+                  aria-selected="true"
+                  className="react-tabs__tab react-tabs__tab--selected"
+                  id="react-tabs-0"
+                  role="tab"
+                  tabIndex="0"
+                >
+                  <span>
+                    <i
+                      className="mdi mdi-clipboard-account"
+                    />
+                     Patient : Joe Bloggs
+                  </span>
+                </li>
+                <li
+                  aria-controls="react-tabs-3"
+                  aria-disabled="false"
+                  aria-selected="false"
+                  className="react-tabs__tab"
+                  id="react-tabs-2"
+                  role="tab"
+                  tabIndex={null}
+                >
+                  <span>
+                    <i
+                      className="mdi mdi-clipboard-text"
+                    />
+                     Reports
+                  </span>
+                </li>
+                <li
+                  aria-controls="react-tabs-5"
+                  aria-disabled="false"
+                  aria-selected="false"
+                  className="react-tabs__tab"
+                  id="react-tabs-4"
+                  role="tab"
+                  tabIndex={null}
+                >
+                  <span>
+                    <i
+                      className="mdi mdi-chart-bar"
+                    />
+                     Labs
+                  </span>
+                </li>
+              </ul>
+              <div
+                aria-labelledby="react-tabs-0"
+                className="react-tabs__tab-panel react-tabs__tab-panel--selected"
+                id="react-tabs-1"
+                role="tabpanel"
+              >
+                <div
+                  className="summary_header_parent"
+                >
+                  <div
+                    className="summary_header_block summary_border"
+                  >
+                    <div
+                      className="summary_header_inner"
+                    >
+                      <b>
+                        Admission ID
+                      </b>
+                    </div>
+                    <div
+                      className="summary_header_inner"
+                    >
+                      0
+                    </div>
+                  </div>
+                  <div
+                    className="summary_header_block summary_border"
+                  >
+                    <div
+                      className="summary_header_inner"
+                    >
+                      <b>
+                        Admission Date
+                      </b>
+                    </div>
+                    <div
+                      className="summary_header_inner"
+                    >
+                      0
+                    </div>
+                  </div>
+                  <div
+                    className="summary_header_block summary_border"
+                  >
+                    <div
+                      className="summary_header_inner"
+                    >
+                      <b>
+                        Discharge Date
+                      </b>
+                    </div>
+                    <div
+                      className="summary_header_inner"
+                    >
+                      0
+                    </div>
+                  </div>
+                  <div
+                    className="summary_header_block summary_border"
+                  >
+                    <div
+                      className="summary_header_inner"
+                    >
+                      <b>
+                        Speciality
+                      </b>
+                    </div>
+                    <div
+                      className="summary_header_inner"
+                    >
+                      0
+                    </div>
+                  </div>
+                  <div
+                    className="summary_header_block "
+                  >
+                    <div
+                      className="summary_header_inner"
+                    >
+                      <b>
+                        Patient ID
+                      </b>
+                    </div>
+                    <div
+                      className="summary_header_inner"
+                    >
+                      0
+                    </div>
+                  </div>
+                  <div
+                    className="summary_header_block "
+                  >
+                    <div
+                      className="summary_header_inner"
+                    >
+                      <b>
+                        Admission Time
+                      </b>
+                    </div>
+                    <div
+                      className="summary_header_inner"
+                    >
+                      3.00 PM
+                    </div>
+                  </div>
+                  <div
+                    className="summary_header_block "
+                  >
+                    <div
+                      className="summary_header_inner"
+                    >
+                      <b>
+                        Discharge Time
+                      </b>
+                    </div>
+                    <div
+                      className="summary_header_inner"
+                    >
+                      11.00 AM
+                    </div>
+                  </div>
+                  <div
+                    className="summary_header_block "
+                  >
+                    <div
+                      className="summary_header_inner"
+                    >
+                      <b>
+                        Admission Diagnosis
+                      </b>
+                    </div>
+                    <div
+                      className="summary_header_inner"
+                    >
+                      Polysubstance Overdose
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="row"
+                  style={
+                    Object {
+                      "marginTop": "1%",
+                    }
+                  }
+                >
+                  <div
+                    className="col-sm-12"
+                  >
+                    <div
+                      className="data_block mt-4"
+                    >
+                      <span
+                        className="btn custom_tab btn-sm primary_tab_color"
+                      >
+                        PRIMARY DIAGNOSIS
+                      </span>
+                      <div
+                        className="backup_div"
+                      >
+                         
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col-sm-12"
+                  >
+                    <div
+                      className="data_block mt-4"
+                    >
+                      <span
+                        className="btn custom_tab btn-sm primary_tab_color"
+                      >
+                        SECONDARY DIAGNOSIS
+                      </span>
+                      <div
+                        className="backup_div"
+                      >
+                         
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col-sm-12"
+                  >
+                    <div
+                      className="data_block2 mt-4"
+                    >
+                      <span
+                        className="btn custom_tab btn-sm secondry_tab_color"
+                      >
+                        PRIMARY PROCEDURE
+                      </span>
+                      <div
+                        className="backup_div"
+                      >
+                         
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col-sm-12"
+                  >
+                    <div
+                      className="data_block2 mt-4"
+                    >
+                      <span
+                        className="btn custom_tab btn-sm secondry_tab_color"
+                      >
+                        SECONDARY PROCEDURE
+                      </span>
+                      <div
+                        className="backup_div"
+                      >
+                         
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col-sm-12"
+                  >
+                    <div
+                      className="data_block3 mt-4"
+                    >
+                      <span
+                        className="btn custom_tab btn-sm choronic_tab_color"
+                      >
+                        CHRONIC CONDITION
+                      </span>
+                      <div
+                        className="backup_div"
+                      >
+                         
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col-sm-8"
+                  />
+                  <div
+                    className="col-sm-12 mt-4 text-right"
+                  >
+                    <button
+                      aria-label={null}
+                      className="mr-2 btn btn-secondary"
+                      onClick={[Function]}
+                      style={
+                        Object {
+                          "background": "transparent",
+                          "border": "none",
+                          "borderBottomLeftRadius": "30px",
+                          "borderBottomRightRadius": "30px",
+                          "borderTopLeftRadius": "30px",
+                          "borderTopRightRadius": "30px",
+                          "color": "#1b726b",
+                          "height": "50px",
+                          "width": "200px",
+                        }
+                      }
+                    >
+                      + ADD NOTE
+                    </button>
+                    <button
+                      aria-label={null}
+                      className="mr-2 btn btn-secondary"
+                      onClick={[Function]}
+                      style={
+                        Object {
+                          "background": "radial-gradient(#18635c,50%, #071b19)",
+                          "borderBottomLeftRadius": "30px",
+                          "borderBottomRightRadius": "30px",
+                          "borderTopLeftRadius": "30px",
+                          "borderTopRightRadius": "30px",
+                          "height": "50px",
+                          "width": "200px",
+                        }
+                      }
+                    >
+                      SAVE CHANGES
+                    </button>
+                    <button
+                      aria-label={null}
+                      className="btn btn-secondary"
+                      onClick={[Function]}
+                      style={
+                        Object {
+                          "background": "radial-gradient(#18635c,50%, #071b19)",
+                          "borderBottomLeftRadius": "30px",
+                          "borderBottomRightRadius": "30px",
+                          "borderTopLeftRadius": "30px",
+                          "borderTopRightRadius": "30px",
+                          "height": "50px",
+                          "width": "200px",
+                        }
+                      }
+                    >
+                      DONE
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-labelledby="react-tabs-2"
+                className="react-tabs__tab-panel"
+                id="react-tabs-3"
+                role="tabpanel"
+              />
+              <div
+                aria-labelledby="react-tabs-4"
+                className="react-tabs__tab-panel"
+                id="react-tabs-5"
+                role="tabpanel"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,268 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Discharges component Matches the snapshot 1`] = `
+<div
+  className="wrapper"
+>
+  <div
+    className="content-page"
+  >
+    <div
+      className="content page_container"
+    >
+      <div
+        className="container-fluid content_box"
+      >
+        <div
+          className="row"
+        >
+          <div
+            className="col-12"
+          >
+            <div
+              className="page-title-box"
+            >
+              <div
+                className="page-title-right"
+              >
+                <ol
+                  className="breadcrumb m-0"
+                >
+                  <li
+                    className="breadcrumb-item"
+                  />
+                  <li
+                    className="breadcrumb-item active"
+                  >
+                    Discharges
+                  </li>
+                </ol>
+              </div>
+              <h4
+                className="page-title"
+              >
+                Discharges
+              </h4>
+            </div>
+          </div>
+        </div>
+        <div
+          className="row"
+        >
+          <div
+            className="col-lg-12"
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-body"
+              >
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col"
+                  >
+                    <label
+                      className="search-label"
+                      htmlFor="search-bar-0"
+                    >
+                      <span
+                        className="sr-only"
+                        id="search-bar-0-label"
+                      >
+                        Search this table
+                      </span>
+                      <input
+                        aria-labelledby="search-bar-0-label"
+                        className="form-control "
+                        id="search-bar-0"
+                        onChange={[Function]}
+                        onKeyUp={[Function]}
+                        placeholder="Search"
+                        style={Object {}}
+                        type="text"
+                        value=""
+                      />
+                    </label>
+                  </div>
+                  <div
+                    className="text-right col"
+                  >
+                    <button
+                      className="react-bs-table-csv-btn btn btn-default btn custom_btn"
+                      onClick={[Function]}
+                      style={Object {}}
+                      type="button"
+                    >
+                      Export CSV
+                    </button>
+                  </div>
+                </div>
+                <div
+                  className="react-bootstrap-table table-responsive"
+                >
+                  <table
+                    className="table"
+                  >
+                    <thead>
+                      <tr>
+                        <th
+                          aria-label="Admission ID sort asc"
+                          className="sortable"
+                          onClick={[Function]}
+                          onKeyUp={[Function]}
+                          tabIndex={0}
+                        >
+                          Admission ID
+                          <span
+                            className="caret-4-asc"
+                          />
+                        </th>
+                        <th
+                          aria-label="Patient ID sortable"
+                          className="sortable"
+                          onClick={[Function]}
+                          onKeyUp={[Function]}
+                          tabIndex={0}
+                        >
+                          Patient ID
+                          <span
+                            className="order-4"
+                          />
+                        </th>
+                        <th
+                          tabIndex={0}
+                        >
+                          Admission Date
+                        </th>
+                        <th
+                          aria-label="Discharge Date sortable"
+                          className="sortable"
+                          onClick={[Function]}
+                          onKeyUp={[Function]}
+                          tabIndex={0}
+                        >
+                          Discharge Date
+                          <span
+                            className="order-4"
+                          />
+                        </th>
+                        <th
+                          tabIndex={0}
+                        >
+                          Specialtity
+                        </th>
+                        <th
+                          aria-label="Status sortable"
+                          className="sortable"
+                          onClick={[Function]}
+                          onKeyUp={[Function]}
+                          tabIndex={0}
+                        >
+                          Status
+                          <span
+                            className="order-4"
+                          />
+                        </th>
+                        <th
+                          tabIndex={0}
+                        >
+                          Action
+                        </th>
+                      </tr>
+                    </thead>
+                  </table>
+                </div>
+                <div
+                  className="row react-bootstrap-table-pagination"
+                >
+                  <div
+                    className="col-md-6 col-xs-6 col-sm-6 col-lg-6"
+                  >
+                    <span
+                      className="react-bs-table-sizePerPage-dropdown dropdown"
+                      style={
+                        Object {
+                          "visibility": "visible",
+                        }
+                      }
+                    >
+                      <button
+                        aria-expanded={false}
+                        className="btn btn-default btn-secondary dropdown-toggle"
+                        data-toggle="dropdown"
+                        id="pageDropDown"
+                        onBlur={[Function]}
+                        onClick={[Function]}
+                        type="button"
+                      >
+                        10
+                         
+                      </button>
+                      <ul
+                        aria-labelledby="pageDropDown"
+                        className="dropdown-menu "
+                        role="menu"
+                      >
+                        <a
+                          className="dropdown-item"
+                          data-page={10}
+                          href="#"
+                          onMouseDown={[Function]}
+                          role="menuitem"
+                          tabIndex="-1"
+                        >
+                          10
+                        </a>
+                        <a
+                          className="dropdown-item"
+                          data-page={25}
+                          href="#"
+                          onMouseDown={[Function]}
+                          role="menuitem"
+                          tabIndex="-1"
+                        >
+                          25
+                        </a>
+                        <a
+                          className="dropdown-item"
+                          data-page={30}
+                          href="#"
+                          onMouseDown={[Function]}
+                          role="menuitem"
+                          tabIndex="-1"
+                        >
+                          30
+                        </a>
+                        <a
+                          className="dropdown-item"
+                          data-page={50}
+                          href="#"
+                          onMouseDown={[Function]}
+                          role="menuitem"
+                          tabIndex="-1"
+                        >
+                          50
+                        </a>
+                      </ul>
+                    </span>
+                  </div>
+                  <div
+                    className="react-bootstrap-table-pagination-list col-md-6 col-xs-6 col-sm-6 col-lg-6"
+                  >
+                    <ul
+                      className="pagination react-bootstrap-table-page-btns-ul"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

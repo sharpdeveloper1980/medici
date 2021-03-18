@@ -1,0 +1,286 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard component Matches the snapshot 1`] = `
+<div
+  className="wrapper"
+>
+  <div
+    className="content-page"
+  >
+    <div
+      className="content page_container"
+    >
+      <div
+        className="container-fluid content_box"
+      >
+        <div
+          className="row"
+        >
+          <div
+            className="col"
+          >
+            <div
+              className="page-title-box"
+            >
+              <div
+                className="page-title-right"
+              />
+              <h4
+                className="page-title"
+              >
+                Dashboard
+              </h4>
+              <p>
+                Welcome back, James
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          className="row"
+        >
+          <div
+            className="col-lg-6"
+          >
+            <div
+              className="row"
+            >
+              <div
+                className="col-lg-6"
+              >
+                <div
+                  className="card widget-flat"
+                >
+                  <div
+                    className="card-body"
+                  >
+                    <div
+                      className="float-right"
+                    >
+                      <i
+                        className="mdi mdi-file-document-box-check-outline"
+                      />
+                    </div>
+                    <h5
+                      className="text-muted font-weight-normal mt-0"
+                      title="Number of Discharges"
+                    >
+                      Discharges
+                    </h5>
+                    <h3
+                      className="mt-3 mb-3"
+                    >
+                      0
+                    </h3>
+                    <div
+                      className="mb-0 text-muted"
+                    >
+                      <div
+                        className="text-success mr-2"
+                      >
+                        <i
+                          className="mdi mdi-arrow-up-bold"
+                        />
+                         5.27%
+                      </div>
+                      <div
+                        className="text-nowrap"
+                      >
+                        Since last month
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-lg-6"
+              >
+                <div
+                  className="card widget-flat"
+                >
+                  <div
+                    className="card-body"
+                  >
+                    <div
+                      className="float-right"
+                    >
+                      <i
+                        className="mdi mdi-currency-usd"
+                      />
+                    </div>
+                    <h5
+                      className="text-muted font-weight-normal mt-0"
+                      title="Revenue"
+                    >
+                      Revenue
+                    </h5>
+                    <h3
+                      className="mt-3 mb-3"
+                    >
+                      $ 
+                      0
+                    </h3>
+                    <div
+                      className="mb-0 text-muted"
+                    >
+                      <div
+                        className="text-danger mr-2"
+                      >
+                        <i
+                          className="mdi mdi-arrow-down-bold"
+                        />
+                         1.08%
+                      </div>
+                      <div
+                        className="text-nowrap"
+                      >
+                        Since last month
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="row"
+            >
+              <div
+                className="col-lg-6"
+              >
+                <div
+                  className="card widget-flat"
+                >
+                  <div
+                    className="card-body"
+                  >
+                    <div
+                      className="float-right"
+                    >
+                      <i
+                        className="mdi mdi-file-document-box-check"
+                      />
+                    </div>
+                    <h5
+                      className="text-muted font-weight-normal mt-0"
+                      title="Number of Customers"
+                    >
+                      Team Discharges 
+                    </h5>
+                    <h3
+                      className="mt-3 mb-3"
+                    >
+                      0
+                    </h3>
+                    <div
+                      className="mb-0 text-muted"
+                    >
+                      <div
+                        className="text-success mr-2"
+                      >
+                        <i
+                          className="mdi mdi-arrow-up-bold"
+                        />
+                         5.27%
+                      </div>
+                      <div
+                        className="text-nowrap"
+                      >
+                        Since last month
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-lg-6"
+              >
+                <div
+                  className="card widget-flat"
+                >
+                  <div
+                    className="card-body"
+                  >
+                    <div
+                      className="float-right"
+                    >
+                      <i
+                        className="mdi mdi-coin-outline"
+                      />
+                    </div>
+                    <h5
+                      className="text-muted font-weight-normal mt-0"
+                      title="Number of Orders"
+                    >
+                      Team Revenue
+                    </h5>
+                    <h3
+                      className="mt-3 mb-3"
+                    >
+                      $ 
+                      0
+                    </h3>
+                    <div
+                      className="mb-0 text-muted"
+                    >
+                      <div
+                        className="text-danger mr-2"
+                      >
+                        <i
+                          className="mdi mdi-arrow-down-bold"
+                        />
+                         1.08%
+                      </div>
+                      <div
+                        className="text-nowrap"
+                      >
+                        Since last month
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="col-lg-6"
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-body"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          className="row"
+        >
+          <div
+            className="col-lg-6"
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-body"
+              />
+            </div>
+          </div>
+          <div
+            className="col-lg-6"
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-body"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

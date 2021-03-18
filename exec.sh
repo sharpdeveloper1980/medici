@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+docker build -t medici/frontend:dev .
+docker run \
+    -it \
+    --rm \
+    -v ${PWD}:/app \
+    -v /app/node_modules \
+    -p 3000:3000 \
+    -e CHOKIDAR_USEPOLLING=true \
+    medici/frontend:dev

@@ -1,0 +1,164 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CodingTeamRevenue component Matches the snapshot 1`] = `
+<div>
+  <div
+    className="row"
+  >
+    <div
+      className="col-sm-9"
+    >
+      <h6
+        className="header-title mb-2 mt-1"
+        style={
+          Object {
+            "fontSize": "12px",
+          }
+        }
+      >
+        Coding Team Cumulative
+      </h6>
+    </div>
+    <div
+      className="col-sm-3"
+    >
+      <select
+        className="form-control form-control-sm"
+        style={
+          Object {
+            "fontSize": "10px",
+            "height": "23px",
+          }
+        }
+      >
+        <option>
+          Last 30 Days
+        </option>
+        <option>
+          Last 60 Days
+        </option>
+      </select>
+    </div>
+  </div>
+  <div
+    className="apex-charts"
+    height="auto"
+    options={
+      Object {
+        "chart": Object {
+          "height": 380,
+          "toolbar": Object {
+            "show": false,
+          },
+          "type": "line",
+          "zoom": Object {
+            "enabled": false,
+          },
+        },
+        "colors": Array [
+          "#ffaf47",
+          "#ffaf47",
+          "#ffaf47",
+        ],
+        "dataLabels": Object {
+          "enabled": false,
+        },
+        "grid": Object {
+          "borderColor": "#f1f3fa",
+          "row": Object {
+            "colors": Array [
+              "transparent",
+              "transparent",
+            ],
+            "opacity": 0.2,
+          },
+        },
+        "legend": Object {
+          "floating": true,
+          "horizontalAlign": "right",
+          "offsetX": -5,
+          "offsetY": -25,
+          "position": "top",
+        },
+        "responsive": Array [
+          Object {
+            "breakpoint": 600,
+            "options": Object {
+              "chart": Object {
+                "toolbar": Object {
+                  "show": false,
+                },
+              },
+              "legend": Object {
+                "show": false,
+              },
+            },
+          },
+        ],
+        "stroke": Object {
+          "curve": "smooth",
+          "width": Array [
+            3,
+            3,
+          ],
+        },
+        "title": Object {
+          "align": "left",
+          "style": Object {
+            "fontSize": "14px",
+          },
+          "text": "",
+        },
+        "xaxis": Object {
+          "categories": Array [
+            "July 01 ,2020",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            "Aug 01 ,2020",
+          ],
+          "convertedCatToNumeric": true,
+          "title": Object {
+            "text": "Month",
+          },
+        },
+        "yaxis": Object {
+          "labels": Object {
+            "formatter": [Function],
+          },
+          "max": 1000,
+          "min": 0,
+          "title": Object {
+            "text": "",
+          },
+        },
+      }
+    }
+    series={
+      Array [
+        Object {
+          "data": Array [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+          ],
+        },
+      ]
+    }
+    type="line"
+    width="100%"
+  />
+</div>
+`;
